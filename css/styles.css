@@ -1,0 +1,37 @@
+.myself {
+  background-image: url("../images/blog.jpeg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+  background-size: cover;
+}
+h1 {
+  color: black;
+  font-family: Tahoma;
+  font-size: 50px;
+  font-style: normal;
+  float: left;
+}
+h2 {
+  color: black;
+  font-style: oblique;
+  text-align: center;
+}
+.body {
+  border: 10px black;
+}
+.column {
+  float: left;
+  width: 650px;
+  padding: 8px;
+  background-color: gray;
+  font-size: larger;
+}
+#name {
+  color: azure
+}
+
+h3 {
+  color: azure;
+}
