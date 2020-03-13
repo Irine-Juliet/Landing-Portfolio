@@ -18,8 +18,8 @@ h2 {
   font-style: oblique;
   text-align: center;
 }
-.body {
-  border: 10px black;
+.box {
+  border: 2px black;
 }
 .column {
   float: left;
@@ -37,4 +37,7 @@ h3 {
 }
 span {
   text-emphasis-style: bold;
+}
+img {
+  float: left;
 }
