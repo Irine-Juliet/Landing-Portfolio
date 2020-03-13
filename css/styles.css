@@ -35,3 +35,6 @@ h2 {
 h3 {
   color: azure;
 }
+span {
+  text-emphasis-style: bold;
+}
